@@ -2,7 +2,13 @@ Practice using GitHub
 
 Practice line 2
 
+<<<<<<< HEAD
 Kyra's edit
 
 Grace's edit
+
+=======
+Kyra's added edit_step 6
+
+Kyra trying to create a conflict? Hopefully this works...
 
